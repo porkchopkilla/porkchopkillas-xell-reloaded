@@ -18,7 +18,7 @@ static char* asciiart = "\n"
                  " ████████                  █████████████████████ \n"                
                " █████████████████████████████████████████████ \n"                   
                      " ████████████████████████████████████ \n"                       
-                                " ████████████████████ \n\n"                           
+                                " ████████████████████ \n\n";                           
                                                                                  
  static char* asciitail =
 	"              Free60.org XeLL RELOADED - Master Chief, do you mind telling me why you're in xell?\n\n";                                                                                
